@@ -63,6 +63,12 @@ namespace ArcAnnihilation
             public static SparkSpam SparkSpam;
             public static SparkSpamTempest SparkSpamTempest;
             public static TempestCombo TempestCombo;
+            public static void SayHi()
+                 {
+                console.writeLine("");
+                }
         }
     }
+     
+  
 }
